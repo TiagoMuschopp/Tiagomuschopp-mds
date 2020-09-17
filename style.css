@@ -417,7 +417,7 @@ footer {
        .menu{
         margin-top: 0px;
         margin-left: -100%;
-        transition: all .4s;
+        transition: all .2s;
         background-color:rgb(2, 1, 65);
         }
         .menu a{
