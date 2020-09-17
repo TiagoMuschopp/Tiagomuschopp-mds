@@ -434,7 +434,7 @@ footer {
         position: static;
         overflow: hidden;
         max-height: 0;
-        transition: all 4s;
+        transition: all 2s;
         }
          
        .menu ul li:hover ul {
